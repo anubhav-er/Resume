@@ -1,0 +1,11 @@
+.page {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 20px;
+}
+.heading{
+    font-size: 1rem;
+}
+.rightside{
+    margin-left: 5%;
+}
